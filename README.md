@@ -1,30 +1,45 @@
-# Jogo da Memória
+# Jogo da Memória com React e TypeScript
+Este é um projeto de um Jogo da Memória criado usando React e TypeScript. O jogo consiste em um conjunto de cartas viradas para baixo e o jogador deve encontrar os pares correspondentes de cada carta.
 
-Projeto feito em aula do curso B7web
+## Tecnologias Usadas
+- React
+- TypeScript
+- HTML
+- CSS
+## Como Rodar o Projeto
+Clone este repositório em sua máquina:
+bash
+Copy code
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+Acesse o diretório do projeto:
+javascript
+Copy code
+cd nome-do-repositorio
+Instale as dependências:
+Copy code
+npm install
+Inicie o servidor de desenvolvimento:
+sql
+Copy code
+npm start
+Abra seu navegador e acesse a URL http://localhost:3000.
+## Como Jogar
+Clique em uma carta para revelá-la.
+Clique em outra carta para tentar encontrar seu par correspondente.
+Se as cartas forem iguais, elas permanecerão viradas para cima.
+Caso contrário, as cartas serão viradas para baixo novamente.
+O objetivo do jogo é encontrar todos os pares correspondentes de cartas.
+## Funcionalidades Implementadas
+Geração aleatória de cartas para cada nova partida.
+Contagem de tempo e movimentos realizados pelo jogador.
+Mensagem de vitória quando todas as cartas são encontradas.
+## Contribuição
+Sinta-se à vontade para contribuir com o projeto criando novas funcionalidades ou corrigindo bugs existentes. Para isso, basta seguir os seguintes passos:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-
+Faça um fork deste repositório.
+Crie uma nova branch para sua funcionalidade ou correção de bug: git checkout -b minha-nova-funcionalidade.
+Faça as alterações desejadas e faça commit das mudanças: git commit -m "Minha nova funcionalidade".
+Envie as alterações para seu repositório remoto: git push origin minha-nova-funcionalidade.
+Crie um novo pull request no repositório original.
+Autor
+Este projeto foi criado por Eduardo Gomes Jr.
