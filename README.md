@@ -41,5 +41,6 @@ Crie uma nova branch para sua funcionalidade ou correção de bug: git checkout 
 Faça as alterações desejadas e faça commit das mudanças: git commit -m "Minha nova funcionalidade".
 Envie as alterações para seu repositório remoto: git push origin minha-nova-funcionalidade.
 Crie um novo pull request no repositório original.
+
 Autor
-Este projeto foi criado por Eduardo Gomes Jr.
+Este projeto foi criado por **Eduardo Gomes Jr**.
