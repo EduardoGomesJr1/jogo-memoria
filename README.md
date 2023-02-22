@@ -33,14 +33,7 @@ O objetivo do jogo é encontrar todos os pares correspondentes de cartas.
 Geração aleatória de cartas para cada nova partida.
 Contagem de tempo e movimentos realizados pelo jogador.
 Mensagem de vitória quando todas as cartas são encontradas.
-## Contribuição
-Sinta-se à vontade para contribuir com o projeto criando novas funcionalidades ou corrigindo bugs existentes. Para isso, basta seguir os seguintes passos:
 
-Faça um fork deste repositório.
-Crie uma nova branch para sua funcionalidade ou correção de bug: git checkout -b minha-nova-funcionalidade.
-Faça as alterações desejadas e faça commit das mudanças: git commit -m "Minha nova funcionalidade".
-Envie as alterações para seu repositório remoto: git push origin minha-nova-funcionalidade.
-Crie um novo pull request no repositório original.
 
 Autor
 Este projeto foi criado por **Eduardo Gomes Jr**.
